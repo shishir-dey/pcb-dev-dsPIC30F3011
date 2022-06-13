@@ -1,5 +1,4 @@
 # pcb-dev-dsPIC30F3011
-A 2-layer development board with a dsPIC30F3011 microcontroller 
 
 
 <p align="center"><a href="https://shishir-dey.github.io/pcb-dev-dsPIC30F3011/"><img alt="Custom badge"
